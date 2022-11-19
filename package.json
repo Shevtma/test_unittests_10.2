@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  },
+  "name": "test_unittests_10.2",
+  "description": "**Задача**: студенты получают дополнительные баллы за успешное и самое быстрое завершение практической работы, для этого нам необходимо вычислить данных студентов. Дан объект с набором данных разных студентов, в котором необходимо вычислить студента с максимальным количеством баллов - в консоли вывести поздравления для данного студента.",
+  "version": "1.0.0",
+  "main": "get_best_students.js",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shevtma/test_unittests_10.2.git"
+  },
+  "author": "Maria Shevchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shevtma/test_unittests_10.2/issues"
+  },
+  "homepage": "https://github.com/Shevtma/test_unittests_10.2#readme"
+}
